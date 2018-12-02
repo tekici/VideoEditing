@@ -1,0 +1,11 @@
+Davinci Resolve 
+
+
+Fusion Tab Basics :  
+
+	* MergeNode : Foreground / Backround merge
+	* Efects > Matte > Delta Keyer (green screen)
+	* Effects Library > Tools > Tracking > Plainer Tracker : 
+	
+
+https://www.youtube.com/watch?v=iBzNEjepn5M
